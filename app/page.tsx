@@ -130,10 +130,45 @@ export default function Home() {
                 <span>
                   {work.type} / {work.year}
                 </span>
-                <span>↗</span>
+                <svg
+                  className="work-link-arrow"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="2"
+                  aria-hidden="true"
+                  focusable="false"
+                >
+                  <path d="M5 19 19 5M5 5h14v14" />
+                </svg>
               </div>
               <div className={`idea-art art-${i}`} aria-hidden="true">
-                {["✳", "aı", "↗", "◎"][i]}
+                <svg
+                  viewBox="0 0 100 100"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="5"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  focusable="false"
+                >
+                  {i === 0 && (
+                    <path d="M50 16v68M16 50h68M26 26l48 48M26 74l48-48" />
+                  )}
+                  {i === 1 && (
+                    <>
+                      <path d="M50 28c-10-8-22-10-34-7v53c12-3 24-1 34 7 10-8 22-10 34-7V21c-12-3-24-1-34 7Z" />
+                      <path d="M50 28v53" />
+                    </>
+                  )}
+                  {i === 2 && <path d="M23 77 77 23M25 23h52v52" />}
+                  {i === 3 && (
+                    <>
+                      <circle cx="50" cy="50" r="34" />
+                      <circle cx="50" cy="50" r="23" />
+                    </>
+                  )}
+                </svg>
               </div>
               <h3>{work.title}</h3>
               <p>{work.publisher}</p>

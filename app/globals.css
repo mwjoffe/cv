@@ -1627,3 +1627,16 @@ footer .eyebrow {
     top: var(--highlight-height);
   }
 }
+
+/* Vector artwork avoids platform-specific emoji rendering. */
+.idea-art svg {
+  width: min(62%, 100px);
+  height: 100px;
+  max-height: 70%;
+  display: block;
+}
+.work-link-arrow {
+  width: 15px;
+  height: 15px;
+  flex-shrink: 0;
+}
