@@ -427,9 +427,6 @@ export default function Arcade() {
         <span>
           Keyboard and touch controls · High score saved on this device
         </span>
-        <a href="#resume" onClick={pause}>
-          Read the full résumé ↓
-        </a>
       </p>
       <dialog
         ref={helpDialog}
