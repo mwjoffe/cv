@@ -171,6 +171,7 @@ export default function Arcade() {
   const control = (name: keyof Input) => ({
     onPointerDown: (e: React.PointerEvent<HTMLButtonElement>) => {
       e.preventDefault();
+      stage.current?.focus({ preventScroll: true });
       e.currentTarget.setPointerCapture(e.pointerId);
       input.current[name] = true;
     },
@@ -179,6 +180,9 @@ export default function Arcade() {
     },
     onPointerCancel: () => {
       input.current[name] = false;
+    },
+    onLostPointerCapture: () => {
+      if (name !== "jump") input.current[name] = false;
     },
     onKeyDown: (e: React.KeyboardEvent<HTMLButtonElement>) => {
       if (e.key === " " || e.key === "Enter") {
@@ -264,7 +268,18 @@ export default function Arcade() {
             onKeyDown={(e) => key(e, true)}
             onKeyUp={(e) => key(e, false)}
             onBlur={(e) => {
-              if (!e.currentTarget.contains(e.relatedTarget)) pause();
+              // Touch controls can move focus outside the canvas on mobile.
+              // Clear held keys without treating a focus change as a pause.
+              if (
+                !e.currentTarget.contains(e.relatedTarget) &&
+                !(
+                  e.relatedTarget instanceof Element &&
+                  e.relatedTarget.closest(".touch-controls")
+                )
+              ) {
+                input.current.left = false;
+                input.current.right = false;
+              }
             }}
             aria-label="Skating game. Enter to start. Left and right to move. Space to jump. Career jam: Left brakes and Right speeds up. Landings are automatic. P to pause."
           >
@@ -460,7 +475,7 @@ export default function Arcade() {
           <dt>Space / ↑ / W</dt>
           <dd>Jump. No extra input is needed to land.</dd>
           <dt>P / Escape</dt>
-          <dd>Pause or resume. Leaving the game also pauses it.</dd>
+          <dd>Pause or resume. Switching tabs or apps also pauses it.</dd>
         </dl>
         <p>
           On a phone, use the three buttons below the game. Sound is optional.

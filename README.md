@@ -20,7 +20,7 @@ Open http://localhost:3000/cv. The `/cv` base path matches the repository’s Gi
 - **Left / Right or A / D:** brake / speed up in Career jam; move left and right in Freestyle.
 - **Space / Up / W:** jump. There are no combinations or timed catches.
 - **P / Escape:** pause or resume. **Enter:** start. Phones have three touch controls: left, right, jump.
-- Leaving the game pauses the session. Sound is opt-in and high scores are stored on this device when browser storage is available.
+- Switching tabs or apps pauses the session. Tapping within the page or using touch controls keeps the session running. Sound is opt-in and high scores are stored on this device when browser storage is available.
 - The full résumé remains readable below the game.
 
 ## Edit
