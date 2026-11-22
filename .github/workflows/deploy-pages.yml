@@ -20,18 +20,18 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          node-version: 22
-          cache: npm
-      - run: npm ci
-      - run: npm test
-      - run: npm run build
-      - run: npm run test:export
+          python-version: "3.12"
+      - name: Build site
+        run: python3 build.py
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./out
+          path: ./dist
 
   deploy:
     environment:
