@@ -1,0 +1,76 @@
+[
+  {
+    "role": "Head of GTM, Health & Home Marketing",
+    "org": "Google · Platforms & Devices",
+    "dates": "2026–Present",
+    "current": true,
+    "summary": "Own end-to-end go-to-market across Google’s Health & Home portfolio, including Fitbit, Google Health, Google Home, Nest and Google TV.",
+    "highlights": [
+      "Launched Fitbit Air, defining its customer experience and go-to-market strategy.",
+      "Defined the go-to-market strategy for the Google Health app and Google’s first AI-native health subscription.",
+      "Redesigned marketing workflows around specialized AI teammates and evaluation systems."
+    ],
+    "projects": ["google-health"]
+  },
+  {
+    "role": "Adjunct Professor",
+    "org": "NYU · Department of Psychology",
+    "dates": "2024–Present",
+    "current": true,
+    "summary": "Teach at the intersection of psychology, technology and human behavior, with a focus on how people think, feel and decide with AI.",
+    "highlights": []
+  },
+  {
+    "role": "Advisor",
+    "org": "Google for Startups",
+    "dates": "2021–Present",
+    "current": true,
+    "summary": "Advise founders on product positioning, go-to-market strategy and translating emerging technology into useful customer experiences.",
+    "highlights": []
+  },
+  {
+    "role": "Head of Marketing, Android Onboarding & Interoperability",
+    "org": "Google · Platforms & Devices",
+    "dates": "2021–2026",
+    "summary": "Owned marketing strategy for onboarding, retention, interoperability and ecosystem growth across Android.",
+    "highlights": [
+      "Led product and consumer marketing for iPhone-to-Android switching from research through launch.",
+      "Co-developed Android’s first behavioral segmentation model.",
+      "Translated Gemini’s frontier capabilities into onboarding journeys."
+    ],
+    "projects": ["switch-to-android"]
+  },
+  {
+    "role": "Head of Product Marketing & GTM, SMB Advertising",
+    "org": "YouTube",
+    "dates": "2018–2021",
+    "summary": "Owned product marketing and commercialization for a $XB SMB advertising business and seven-product portfolio.",
+    "highlights": [
+      "Co-founded YouTube Video Builder, Google’s first AI creative product for advertisers.",
+      "Built commercialization, pricing, positioning and sales narratives that contributed to 70% year-over-year revenue growth.",
+      "Created YouTube’s Creative Incubation team and tripled adoption of planning and measurement products."
+    ],
+    "projects": ["youtube-video-builder"]
+  },
+  {
+    "role": "GTM Lead, Large Customer Partnerships",
+    "org": "Google",
+    "dates": "2014–2018",
+    "summary": "Built industry-specific go-to-market strategies for new advertising products across Financial Services, Insurance, CPG and Retail, generating more than $100M in net-new revenue.",
+    "highlights": []
+  },
+  {
+    "role": "Associate Creative Director, Strategy & Ideation",
+    "org": "Mosaic",
+    "dates": "2012–2014",
+    "summary": "Built integrated campaigns and product launches for AB InBev, including work that moved Budweiser from number five to number one in consumer preference.",
+    "highlights": []
+  },
+  {
+    "role": "Head of Digital Innovation",
+    "org": "Blue Ant Media",
+    "dates": "2009–2012",
+    "summary": "Built a $10M+ ARR digital business from zero and expanded audience reach by 15 million users across mobile, tablet, connected TV and branded content.",
+    "highlights": []
+  }
+]

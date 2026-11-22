@@ -1,0 +1,34 @@
+[
+  {
+    "type": "Book",
+    "year": "2026",
+    "title": "Smarter Together: How We Think, Feel and Decide with AI",
+    "venue": "Cambridge University Press",
+    "note": "",
+    "url": "https://www.cambridge.org/core/books/smarter-together/02170B11799FC4B5334ADC6B3E8DA099"
+  },
+  {
+    "type": "Talk",
+    "year": "2026",
+    "title": "The Cognitive Toolkit for Better AI",
+    "venue": "SXSW",
+    "note": "",
+    "url": "https://schedule.sxsw.com/events/PP1162752"
+  },
+  {
+    "type": "Paper",
+    "year": "2025",
+    "title": "Beyond Replacement or Augmentation",
+    "venue": "arXiv",
+    "note": "",
+    "url": "https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=ML6j1NYAAAAJ&citation_for_view=ML6j1NYAAAAJ:d1gkVwhDpl0C"
+  },
+  {
+    "type": "Chapter",
+    "year": "2021",
+    "title": "Applications of Artificial Intelligence in Media and Entertainment",
+    "venue": "IGI Global",
+    "note": "",
+    "url": "https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=ML6j1NYAAAAJ&citation_for_view=ML6j1NYAAAAJ:u5HHmVD_uO8C"
+  }
+]

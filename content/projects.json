@@ -1,0 +1,184 @@
+[
+  {
+    "slug": "google-health",
+    "title": "Google Health & Fitbit Air",
+    "org": "Google · Platforms & Devices",
+    "year": "May 2026",
+    "role": "Head of GTM, Health & Home Marketing",
+    "scope": "Hardware launch · App rebrand · AI subscription",
+    "dek": "Launching the screenless Fitbit Air wearable, transitioning the Fitbit app into the unified Google Health app, and defining GTM for Google’s first AI-native health subscription.",
+    "body": [
+      "In May 2026, Google unified its consumer health ecosystem around two connected launches: the redesigned Google Health app with the Gemini-powered Google Health Coach, and Fitbit Air—Google’s smallest, most affordable screenless wearable built for effortless 24/7 health monitoring."
+    ],
+    "sections": [
+      {
+        "heading": "Fitbit Air — Customer Experience & Launch",
+        "body": [
+          "Even as wearables matured, many people still found them too bulky, too complicated, or too expensive—especially overnight. Fitbit Air was positioned around a deliberately screenless, notification-free pebble form factor engineered to disappear on the wrist while delivering continuous health tracking.",
+          "With up to a week of battery life, 24/7 heart rate, heart rhythm monitoring with AFib alerts, SpO2, HRV, sleep stages, and automatic workout detection across Android and iOS starting at $99.99, Fitbit Air launched both as an accessible first wearable and as a lightweight sleep companion alongside Pixel Watch, paired with swappable Performance, Active, and Elevated bands."
+        ]
+      },
+      {
+        "heading": "Google Health App & AI-Native Subscription",
+        "body": [
+          "Defined the go-to-market strategy for evolving the Fitbit app into the new Google Health app—centralizing Today, Fitness, Sleep, and Health data across wearables, connected apps, and medical records into one streamlined experience.",
+          "Alongside the app rebrand, shaped the positioning and commercialization of Google Health Premium ($9.99/month, and included with Google AI Pro and AI Ultra), shifting the consumer story from passive metric dashboards to proactive, conversational guidance powered by the Google Health Coach."
+        ]
+      }
+    ],
+    "cover": {
+      "src": "media/projects/google-health/hero.webp",
+      "alt": "Fitbit Air worn outdoors alongside four Performance Loop band colorways"
+    },
+    "media": [
+      {
+        "src": "media/projects/google-health/health-app-overview.webp",
+        "alt": "Four screens of the redesigned Google Health app showing Today, Fitness, Sleep, and Health views",
+        "caption": "The redesigned Google Health app — unifying Today, Fitness, Sleep, and Health with the Gemini-powered Google Health Coach."
+      },
+      {
+        "src": "media/projects/google-health/band-elevated.webp",
+        "alt": "Fitbit Air in three Elevated band finishes: Porcelain, Obsidian, and Slate",
+        "caption": "Fitbit Air — a screenless, notification-free tracker with swappable Performance, Active, and Elevated bands and up to 7-day battery life."
+      },
+      {
+        "src": "media/projects/google-health/lifestyle-sleep.webp",
+        "alt": "Person sleeping comfortably while wearing the lightweight Fitbit Air band",
+        "caption": "Designed for comfortable 24/7 wear and overnight recovery tracking — working standalone or alongside Pixel Watch."
+      },
+      {
+        "type": "youtube",
+        "youtube": "v4xrW2FVEq4",
+        "title": "Meet Google Fitbit Air | Lighter, Gets Mightier",
+        "caption": "Launch film — Meet Google Fitbit Air | Lighter, Gets Mightier."
+      }
+    ],
+    "links": [
+      {
+        "label": "Introducing Google Fitbit Air (Google Blog)",
+        "url": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-air/"
+      },
+      {
+        "label": "Introducing the Google Health app (Google Blog)",
+        "url": "https://blog.google/products-and-platforms/products/google-health/google-health-app/"
+      },
+      {
+        "label": "Google Health",
+        "url": "https://healthapp.google/"
+      }
+    ]
+  },
+  {
+    "slug": "switch-to-android",
+    "title": "Switching to Android",
+    "org": "Google · Platforms & Devices",
+    "year": "2021–2026",
+    "role": "Head of Marketing, Onboarding & Interoperability",
+    "scope": "Switching GTM · Behavioral segmentation · Gemini onboarding",
+    "dek": "Leading product and consumer marketing for iPhone-to-Android switching, interoperability, and onboarding—from behavioral research through Android’s native wireless transfer experience.",
+    "body": [
+      "Owned marketing strategy for onboarding, retention, interoperability, and ecosystem growth across Android—leading product and consumer marketing for iPhone-to-Android switching from foundational research through multi-year launches across Pixel, Samsung, and the broader Android ecosystem."
+    ],
+    "sections": [
+      {
+        "heading": "Removing the Friction of Switching",
+        "body": [
+          "Changing phone ecosystems is one of the highest-friction moments in consumer tech—people hesitate out of fear of losing photos, chats, passwords, or setup continuity. Partnered across product and engineering to shape Android Switch and Android 17’s ground-up native wireless transfer system.",
+          "The unified migration flow brings over photos, videos, contacts, messages, calendars, Google accounts, passwords, Wi-Fi credentials, and eSIM wirelessly without a separate app, while making cable transfers 40% faster and letting people complete setup first and transfer data whenever they’re ready."
+        ]
+      },
+      {
+        "heading": "Behavioral Segmentation & Gemini Onboarding",
+        "body": [
+          "Co-developed Android’s first behavioral segmentation model to map how different switchers evaluate, migrate, and build habits on a new platform—grounding consumer messaging and onboarding flows in real behavior rather than generic feature lists.",
+          "Translated Gemini’s frontier capabilities into early onboarding journeys so switchers immediately experienced what made Android distinct from day one."
+        ]
+      }
+    ],
+    "cover": {
+      "src": "media/projects/switch-to-android/switching-ease.webp",
+      "alt": "Welcome to Android onboarding screen surrounded by messages, calendar, contacts, passwords, and photos"
+    },
+    "media": [
+      {
+        "type": "youtube",
+        "youtube": "59ShXzIpwxE",
+        "title": "Switching to Android should be easy, now it is",
+        "caption": "Walkthrough — Android 17’s native wireless iOS-to-Android transfer experience."
+      },
+      {
+        "src": "media/projects/switch-to-android/android-com-og.jpg",
+        "alt": "Switch to a phone that feels like you — Android switching campaign hero",
+        "caption": "Consumer positioning on android.com/switch-to-android — centering personal fit and frictionless setup."
+      }
+    ],
+    "links": [
+      {
+        "label": "Switch to Android (android.com)",
+        "url": "https://www.android.com/switch-to-android/"
+      },
+      {
+        "label": "Switch from iPhone to Android with ease (Google Blog)",
+        "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-switch-from-iphone-to-android/"
+      },
+      {
+        "label": "Switching from iPhone to Android just got easier (Google Blog)",
+        "url": "https://blog.google/products-and-platforms/platforms/android/android-switching-updates/"
+      },
+      {
+        "label": "Watch on YouTube",
+        "url": "https://www.youtube.com/watch?v=59ShXzIpwxE"
+      }
+    ]
+  },
+  {
+    "slug": "youtube-video-builder",
+    "title": "YouTube Video Builder",
+    "org": "YouTube",
+    "year": "2018–2021",
+    "role": "Co-founder · Head of Product Marketing & GTM, SMB Advertising",
+    "scope": "Product creation · Commercialization · Creative incubation",
+    "dek": "Co-founding Google’s first AI-assisted creative product for advertisers—turning static images, copy, and logos into 6- and 15-second YouTube video ads in minutes.",
+    "body": [
+      "Co-founded YouTube Video Builder inside YouTube’s SMB advertising organization to solve the biggest barrier keeping small and medium businesses off YouTube: the time, cost, and complexity of producing video creative from scratch."
+    ],
+    "sections": [
+      {
+        "heading": "Turning Static Assets into Video Ads",
+        "body": [
+          "Video Builder animated existing static assets—product photography, text, and logos—with goal-based layout templates, customizable brand colors and fonts, and a royalty-free music library to generate ready-to-publish 6-second and 15-second YouTube ads in minutes.",
+          "When COVID-19 lockdowns halted traditional shoots in April 2020, we accelerated the free beta launch so businesses could quickly reach customers with updates on hours, promotions, and new services. The template-driven creation workflow went on to become a native part of Google Ads."
+        ]
+      },
+      {
+        "heading": "Creative Incubation & Commercialization",
+        "body": [
+          "Created YouTube’s Creative Incubation team to prototype and scale accessible creative tools across a seven-product SMB advertising portfolio, tripling adoption of planning and measurement products.",
+          "Built commercialization, pricing, positioning, and sales narratives across the SMB advertising business that contributed to 70% year-over-year revenue growth."
+        ]
+      }
+    ],
+    "cover": {
+      "src": "media/projects/youtube-video-builder/hero.gif",
+      "alt": "Animated overview of YouTube Video Builder turning static brand assets into motion ads"
+    },
+    "media": [
+      {
+        "src": "media/projects/youtube-video-builder/mock-1.webp",
+        "alt": "15-second YouTube Video Builder retail ad template for Corner featuring mobile product photography and copy",
+        "caption": "Template output — animating static product imagery, headline copy, and brand palette into a 15-second YouTube ad."
+      },
+      {
+        "src": "media/projects/youtube-video-builder/mock-2.webp",
+        "alt": "15-second YouTube Video Builder editorial grid template for cBalm",
+        "caption": "Modular layout templates tailored to different business goals — from catalog promotions to service announcements."
+      }
+    ],
+    "links": [
+      {
+        "label": "Introducing YouTube Video Builder (Google Blog)",
+        "url": "https://blog.google/products-and-platforms/products/ads/youtube-video-builder/"
+      }
+    ]
+  }
+]

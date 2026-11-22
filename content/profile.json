@@ -1,0 +1,24 @@
+{
+  "name": "Michael Joffe",
+  "descriptor": "Product marketing · Behavioral science · Applied AI",
+  "statement": "I help people adopt breakthrough technology by combining product thinking, behavioral science, and design.",
+  "intro": [
+    "Over the past 15+ years, I’ve worked hands-on across Product, Engineering, Design, Research, and Marketing, shaping products from concept through launch and turning emerging technology into experiences millions of people understand and use."
+  ],
+  "linkedin": "https://www.linkedin.com/in/michaeljoffe",
+  "sections": {
+    "work": "15+ years across Google, YouTube, NYU, and creative agencies.",
+    "projects": "Selected product launches and go-to-market programs.",
+    "explorations": "Visual experiments and interactive explorations — some of which went on to ship in major Google launches.",
+    "writing": "Books, papers, and talks on how people think, feel, and decide with AI."
+  },
+  "education": [
+    { "degree": "MA, Media Production", "school": "Toronto Metropolitan University" },
+    { "degree": "BA, Communication Studies", "school": "Concordia University" }
+  ],
+  "recognition": [
+    "Business Insider’s 30 Most Creative People in Advertising",
+    "Marketing Magazine’s 30 Under 30",
+    "Cannes Lions Juror"
+  ]
+}

@@ -1,0 +1,145 @@
+[
+  {
+    "slug": "sheets-cv-lab",
+    "title": "Sheets CV Lab",
+    "year": "2026",
+    "medium": "Interactive spreadsheet demo",
+    "featured_in": "Gemini 4 Neon Launch",
+    "dek": "A 100,000-cell computer vision lab running entirely on live Google Sheets formulas, built as a custom launch demo for Gemini 4 Neon.",
+    "body": [
+      "Created as a custom technical demonstration for Google DeepMind’s launch of Gemini 4 Neon—a model built for complex software engineering, analytical reasoning, and production knowledge work—to make multi-step reasoning and orchestration immediately legible.",
+      "Built in Google Antigravity, the experiment converts a single static image into a 100,000-cell Google Sheet with no embedded images and no Apps Script. Over 500,000 live spreadsheet formulas run synchronously across dedicated processing sheets to map 3D depth, run Canny edge detection, and dynamically relight the scene whenever you change a dropdown or light angle."
+    ],
+    "cover": {
+      "src": "media/explorations/sheets-cv-lab/cover.jpg",
+      "alt": "Sheets CV Lab running Color Canny edge detection on a Neon sign using live Google Sheets formulas"
+    },
+    "embed": {
+      "youtube": "vPsBbuz9IbE",
+      "title": "Sheets CV Lab: Gemini 4 Neon"
+    },
+    "media": [],
+    "links": [
+      {
+        "label": "Introducing Gemini 4 Neon (Google Blog)",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+      },
+      {
+        "label": "Watch on YouTube",
+        "url": "https://www.youtube.com/watch?v=vPsBbuz9IbE"
+      }
+    ]
+  },
+  {
+    "slug": "stein-schule-fortepiano",
+    "title": "1780 Stein-Schule Fortepiano",
+    "year": "2026",
+    "medium": "3D acoustic & mechanical simulation",
+    "featured_in": "Gemini 4 Carbon Launch",
+    "dek": "A playable historical 1780 fortepiano reconstructed from CAD drawings and X-ray radiographs inside a 3D acoustic model of Koerner Hall, built for the Gemini 4 Carbon launch.",
+    "body": [
+      "Created for the launch of Gemini 4 Carbon—Google’s flagship reasoning model for sustained, long-horizon agentic workflows and complex engineering—to test how far multi-agent execution can push historical reconstruction and physical simulation.",
+      "Built in Google Antigravity from historical CAD drawings and X-ray radiographs of a southern German c. 1780 Stein-school 61-key fortepiano, the interactive simulation models early Prellmechanik escapement physics and places the instrument inside a virtual 3D model of Koerner Hall at the Royal Conservatory of Music in Toronto with seat-specific spatial acoustics."
+    ],
+    "cover": {
+      "src": "media/explorations/stein-schule-fortepiano/cover.jpg",
+      "alt": "3D model of Koerner Hall with the reconstructed 1780 Stein-Schule fortepiano on stage"
+    },
+    "embed": {
+      "youtube": "Vn-gsW5Dyf8",
+      "title": "1780 Stein-Schule Fortepiano: Gemini 4 Carbon"
+    },
+    "media": [],
+    "links": [
+      {
+        "label": "Gemini 4 Carbon Announcement (Google Blog)",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+      },
+      {
+        "label": "Watch on YouTube",
+        "url": "https://www.youtube.com/watch?v=Vn-gsW5Dyf8"
+      }
+    ]
+  },
+  {
+    "slug": "lyria-meadow",
+    "title": "Lyria 3D Meadow",
+    "year": "2026",
+    "medium": "Interactive 3D & real-time audio",
+    "featured_in": "Google for Developers",
+    "dek": "A living, interactive 3D meadow that generates its own adaptive soundtrack live in the browser by pairing Antigravity with Lyria RealTime.",
+    "body": [
+      "An exploration into dynamic game audio and responsive environments, pairing Google Antigravity with Lyria RealTime—Google DeepMind’s low-latency generative music streaming model.",
+      "As you move through the interactive 3D meadow and encounter different flora and elements in the world, the environment steers an adaptive soundtrack live in the browser rather than looping pre-recorded stems."
+    ],
+    "cover": {
+      "src": "media/explorations/lyria-meadow/cover.jpg",
+      "alt": "Interactive 3D meadow with glowing flora, pond, and floating particles"
+    },
+    "video": {
+      "src": "media/explorations/lyria-meadow/demo.mp4",
+      "poster": "media/explorations/lyria-meadow/poster.jpg"
+    },
+    "media": [],
+    "links": [
+      {
+        "label": "Featured by @googledevs on X",
+        "url": "https://x.com/googledevs/status/2107178170218655865"
+      }
+    ]
+  },
+  {
+    "slug": "mangrove-simulator",
+    "title": "Mangrove Forest Simulator",
+    "year": "2026",
+    "medium": "3D hydrodynamic simulation",
+    "featured_in": "",
+    "dek": "An interactive intertidal mangrove transect built with Gemini 4 Carbon by running a swarm of agents in a loop across 45 papers on hydrodynamics and mangrove ecosystems.",
+    "body": [
+      "Built to put Gemini 4 Carbon through its paces on sustained, research-grounded engineering: a swarm of agents working in an iterative loop synthesized 45 scientific papers on coastal hydrodynamics and mangrove forests into a real-time browser simulation.",
+      "The simulator couples 2D porous shallow-water equations with Case-2 water optics and interactive field controls—adjusting tidal stage, offshore wave forcing, freshwater seepage, trade winds, salinity gradients, and camera stations from aerial transects to underwater prop roots."
+    ],
+    "cover": {
+      "src": "media/explorations/mangrove-simulator/cover.jpg",
+      "alt": "Intertidal Mangrove Transect simulation showing coastal waves, mangrove prop roots, water caustics, and hydrodynamic field controls"
+    },
+    "video": {
+      "src": "media/explorations/mangrove-simulator/demo.mp4",
+      "poster": "media/explorations/mangrove-simulator/cover.jpg"
+    },
+    "media": [],
+    "links": [
+      {
+        "label": "View post on X",
+        "url": "https://x.com/mwjoffe/status/2120634147878408304"
+      }
+    ]
+  },
+  {
+    "slug": "seam-carving",
+    "title": "Live Seam Carving",
+    "year": "2026",
+    "medium": "Interactive image algorithm",
+    "featured_in": "",
+    "dek": "A live content-aware image resizing tool built from scratch in one shot with Gemini 4 Neon—image, algorithm, and UI together.",
+    "body": [
+      "Built in a single shot with Gemini 4 Neon to explore content-aware image retargeting directly in the browser. Rather than squishing a photograph uniformly, the algorithm computes an energy map across pixels, traces the lowest-energy seam paths through open space, and removes them so subjects slide closer together intact.",
+      "The interface exposes forward-energy versus gradient-only modes, live seam visualization, side-by-side comparison against standard scaling, protect/remove brushes, and real-time seam cost measurements."
+    ],
+    "cover": {
+      "src": "media/explorations/seam-carving/cover.jpg",
+      "alt": "Live Seam Carving interface highlighting a low-energy vertical seam path between a lighthouse and a sailboat"
+    },
+    "video": {
+      "src": "media/explorations/seam-carving/demo.mp4",
+      "poster": "media/explorations/seam-carving/cover.jpg"
+    },
+    "media": [],
+    "links": [
+      {
+        "label": "View post on X",
+        "url": "https://x.com/mwjoffe/status/2123498654770331694"
+      }
+    ]
+  }
+]
